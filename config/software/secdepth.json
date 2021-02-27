@@ -1,0 +1,18 @@
+{
+    "filename": "secdepth",
+    "filetype": "exe",
+    "location": ["127.0.0.1", "localhost"],
+    "protection": ["admin"],
+            
+    "delayed": 2000,
+    "message": [
+        "start security test",
+        "unpacking dataset",
+        "testing now",
+        "0% complete",
+        "13% complete",
+        "54% complete",
+        "89% complete",
+        "System security measures are active"
+    ]
+}
