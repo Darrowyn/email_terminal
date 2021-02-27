@@ -1,0 +1,32 @@
+[
+    {
+        "from": "Traveller",
+        "to": ["8A73B5", "a"],
+        "title": "Do not Open",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "from": "Software",
+        "to": ["8A73B5", "a"],
+        "title": "undefined",
+        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+    },
+    {
+        "from": "Josephus A. Miller",
+        "to": [ "8A73B5", "a" ],
+        "title": "Contrato n22",
+        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+    },
+    {
+        "from": "Kaldiar",
+        "to": [ "darrowyn" ],
+        "title": "Full test",
+        "body": "'Did you ever hear the Tragedy of Darth Plagueis the wise? I thought not. It's not a story the Jedi would tell you. It's a Sith legend. Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midichlorians to create life... He had such a knowledge of the dark side that he could even keep the ones he cared about from dying. The dark side of the Force is a pathway to many abilities some consider to be unnatural. He became so powerful... the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. It's ironic he could save others from death, but not himself.' - Sheev Palpatine"
+    },
+    {
+        "from": "Mike",
+        "to": ["admin"],
+        "title": "wtf are you kidding me?",
+        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+    }
+]

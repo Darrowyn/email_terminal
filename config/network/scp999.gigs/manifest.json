@@ -1,8 +1,9 @@
 {
-    "serverAddress": "fbi.gov",
-    "serverName": "Federal Bureau of Investigation",
-    "iconName": "fbi.png",
-    "terminalID": "fbi",
+    "year": "2377",
+    "serverAddress": "scp999.gigs",
+    "serverName": "The Douche Canoe of Gigs McFiggity",
+    "iconName": "cmd.png",
+    "terminalID": "GIGS",
     "defaultUser": {
         "userId": "user",
         "password": "",
