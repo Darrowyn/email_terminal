@@ -1,7 +1,7 @@
 {
     "filename": "cdata",
     "filetype": "exe",
-    "location": ["127.0.0.1", "localhost"],
+    "location": ["127.0.0.1", "localhost", "scp999.gigs"],
     "protection": ["admin"],
             
     "delayed": 2000,
